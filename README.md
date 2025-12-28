@@ -1,31 +1,21 @@
-### 📊 Repositório de Análise de Dados – Apostilas & Dicas Práticas
+📊 Repositório de Análise de Dados — Apostilas e Conteúdos Práticos
 
-Bem-vindo(a)! 👋
+Este repositório reúne materiais de estudo, apostilas e conteúdos práticos relacionados à Análise de Dados, com foco em aplicação real no dia a dia profissional.
 
-Este repositório foi criado com o objetivo de **compartilhar conhecimento prático em Análise de Dados**, reunindo materiais que utilizo nos estudos e no dia a dia profissional.
+Os conteúdos aqui organizados refletem minha trajetória em TI, suporte técnico, operações e análise de indicadores, conectando teoria com prática.
 
-### 📂 O que você vai encontrar aqui:
+📌 Temas abordados:
 
-* Apostilas organizadas sobre Análise de Dados
-* Dicas práticas de:
+Excel (funções, tabelas dinâmicas, análises)
 
-  * Excel
-  * SQL
-  * Power BI
-  * Python para Dados
-* Conceitos explicados de forma clara e objetiva
-* Conteúdo focado em quem está aprendendo ou quer se aprofundar
+Power BI e indicadores
 
-### 🎯 Objetivo
+SQL aplicado à análise de dados
 
-Facilitar o aprendizado, apoiar a comunidade e incentivar o compartilhamento de conhecimento — porque ninguém cresce sozinho na área de dados.
+Conceitos básicos de Python para dados
 
-Sinta-se à vontade para:
+Dicas práticas e anotações de estudo
 
-* Usar o material
-* Compartilhar
-* Contribuir com melhorias
+O objetivo deste repositório é centralizar conhecimento, facilitar revisões e compartilhar aprendizados de forma organizada.
 
-⭐ Se este repositório te ajudar, considere deixar uma estrela!
-
-
+📍 Conteúdo em constante atualização.
